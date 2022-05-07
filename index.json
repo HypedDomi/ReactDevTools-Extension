@@ -1,6 +1,6 @@
 {
-    "name": "PluginTemplate",
-    "id": "plugin-template",
-    "description": "A template for future Kernel plugin development.",
+    "name": "ReactDevTools-Extension",
+    "id": "ReactDevTools-extension",
+    "description": "Loads the ReactDevTools extension into Discord",
     "dependencies": []
 }
