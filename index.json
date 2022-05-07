@@ -1,0 +1,6 @@
+{
+    "name": "PluginTemplate",
+    "id": "plugin-template",
+    "description": "A template for future Kernel plugin development.",
+    "dependencies": []
+}
